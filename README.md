@@ -3,7 +3,7 @@
 * make empty folder
 * open it with VSCode or other IDE
 * open terminal Ctrl + ~
-* type and enter "npm clone https://github.com/xreider/nuxt-express-socket-io-boilerplate.git"
+* type and enter "git clone https://github.com/xreider/nuxt-express-socket-io-boilerplate.git"
 * type "npm i"
 * use it
 
