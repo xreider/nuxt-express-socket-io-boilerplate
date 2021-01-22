@@ -10,5 +10,6 @@
 ## i18n
 You can delete i18n packet and change NuxtLinks
 * from :to="localePath('index', 'ru')" to to="/" etc
-* and delete NuxtLinks with :to="switchLocalePath('en')"
-* and delete stuff like this $t("about") 
+* delete NuxtLinks with :to="switchLocalePath('en')"
+* delete stuff like this $t("about") 
+* get rid of i18n stuff from nuxt.config.js
